@@ -1,5 +1,5 @@
 # Pakkapon MVVM-Templates
-A file template for Xcode. It creates all necessary files for CleanSwift architecture.
+A file template for Xcode. It creates all necessary files for MVVM architecture.
 
 Installation
 ------------
