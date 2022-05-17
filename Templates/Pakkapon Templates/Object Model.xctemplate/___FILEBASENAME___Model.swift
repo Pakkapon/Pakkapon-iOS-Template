@@ -11,8 +11,10 @@ import SwiftyJSON
 
 class ___VARIABLE_modelName___ {
     
+//    let id: Int
+    
     init(json: JSON) {
-        
+//        id = json["id"].intValue
     }
     
 }
